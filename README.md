@@ -30,7 +30,7 @@ We need to create a Database with postgress, just the database because we are go
 | :--  | :--         | :--         |
 | `DB_DATABASE` | DB name that we're going to connect. | DB_DATABASE=tasks
 | `DB_USER` | Our user that access to the DB. | DB_USER=root
-| `DB_PASSWORD` | Password to authenticate and connect to our DB. | DB_PASSWORD=*****
+| `DB_PASSWORD` | Password to authenticate and connect to our DB. | DB_PASSWORD=password
 | `DB_HOST` | Host where our DB lives. | DB_HOST=127.0.0.1
 | `DB_PORT` | Port in the host for our DB. | DB_PORT=3306
 
